@@ -1,0 +1,41 @@
+body
+{
+	font = 'Raleway', sans-serif;
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	top: 15%;
+}
+
+h1
+{
+	font = 'Raleway', sans-serif;
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	width:  100%;
+}
+
+h3
+{
+	font = 900 1em 'Raleway', sans-serif;
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	text-transform: none;
+	letter-spacing: .01em;
+}
+
+button.random_gradient
+{
+	display: block;
+	margin:  20px auto;
+	border-radius: 15px;
+	padding: 5px;
+}
+
+button:hover
+{
+	cursor: pointer;
+}
