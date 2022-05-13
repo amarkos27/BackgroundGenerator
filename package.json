@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/amarkos27/BackgroundGenerator/issues"
   },
-  "homepage": "https://github.com/amarkos27/BackgroundGenerator#readme"
+  "homepage": "https://github.com/amarkos27/BackgroundGenerator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
